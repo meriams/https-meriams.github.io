@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-03-26 22:22:00 +0200
+title:  "An Analysis of Historical Police Incident Reports with a Focus on Narcotics in San Francisco"
+date:   2023-03-27 22:22:00 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The dataset offers a glimpse into San Francisco's public safety over the years, containing detailed records of police incident reports spanning back to 2003. From incidents of theft and vandalism to more serious offenses such as assault and homicide, the dataset covers a wide range of criminal activity and incidents that have occurred in the city. With information on the date, time, location, and other relevant details for each reported incident, the dataset is a valuable resource for researchers, analysts, and law enforcement agencies alike, providing insights into crime patterns, trends, and policy decisions.
 
 Jekyll also offers powerful support for code snippets:
 
